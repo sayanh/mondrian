@@ -156,6 +156,7 @@ mondrian/rolap/RolapCubeUsages.java"/>
     <pathelement path="${env.CLASSPATH}"/>
     <pathelement location="${ant.home}/lib/ant.jar"/>
     <pathelement location="${ant.home}/lib/optional.jar"/>
+    <pathelement location="${lib.dir}/jersey-bundle.jar"/>
   </path>
 
   <path id="project.build.classpath">
